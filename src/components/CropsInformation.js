@@ -263,7 +263,7 @@ const CardDashboard = ({ name }) => {
                       }}
                     />
                   }
-                  label="Chế độ tự động"
+                  label="Chế độ không tự động"
                 />
                 <FormControlLabel
                   control={
